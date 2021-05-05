@@ -20,7 +20,7 @@ Although people usually go from south to north, I took opposite direction.
 
 ## North Osaka Cycle Path - Map
 
-<iframe allowtransparency="true" frameborder="0" height="405" loading="lazy" scrolling="no" src="https://www.strava.com/activities/4208848649/embed/7571a178d858e2fdb62c3260d32a0f8394256ac7" width="590" style="display: block; margin-left: auto; margin-right: auto; max-width: 100% !important">
+<iframe title="Strava - North Osaka Cycle Path" allowtransparency="true" frameborder="0" height="405" loading="lazy" scrolling="no" src="https://www.strava.com/activities/4208848649/embed/7571a178d858e2fdb62c3260d32a0f8394256ac7" width="590" style="display: block; margin-left: auto; margin-right: auto; max-width: 100% !important">
  </iframe>
  
 ## Starting from Expo'70 Commemoriative Park
@@ -144,4 +144,3 @@ Finally arrived at Osaka City Hall.
 There are few things to see or take pictures. "Tower of the sun" is only landmark you must see. Riding a bike on the road from Expo'70 Commemoriative Park to Yodo River was not so confortable because of stairways that sometimes appeared. Once reached Yodo River, riverside view is good and you can enjoy cycling without taking care of cars.
 
 For people who like more sight seeing, it will be good idea to drop in Osaka Castle for a short visit.
-
