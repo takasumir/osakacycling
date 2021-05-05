@@ -145,4 +145,4 @@ There are few things to see or take pictures. "Tower of the sun" is only landmar
 
 For people who like more sight seeing, it will be good idea to drop in Osaka Castle for a short visit.
 
-yeah!
+yeah!aaa
