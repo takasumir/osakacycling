@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Osaka Cycling"
+theme = "ananke"
+
+[params]
+Description = "Cycling, outdoor spots in/around Osaka."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
