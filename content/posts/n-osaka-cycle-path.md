@@ -144,3 +144,5 @@ Finally arrived at Osaka City Hall.
 There are few things to see or take pictures. "Tower of the sun" is only landmark you must see. Riding a bike on the road from Expo'70 Commemoriative Park to Yodo River was not so confortable because of stairways that sometimes appeared. Once reached Yodo River, riverside view is good and you can enjoy cycling without taking care of cars.
 
 For people who like more sight seeing, it will be good idea to drop in Osaka Castle for a short visit.
+
+yeah!
