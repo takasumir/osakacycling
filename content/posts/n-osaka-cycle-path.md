@@ -3,6 +3,7 @@ title: "North Osaka Cycle Path"
 date: 2021-05-05T14:01:40+09:00
 draft: false
 ---
+
 ![Title-image](/image/n-osaka-cycle-path-00.webp)
 
 If you are thinking to enjoy cycling in Osaka, Japan, There would be several choices listed below.
@@ -11,6 +12,7 @@ If you are thinking to enjoy cycling in Osaka, Japan, There would be several cho
 * South Kawachi Cycle Path
 * Naniwa Cycle Path
 * North Osaka Cycle Path
+{.cycling-path}
 
 North Osaka Cycle Path begins at Osaka city hall. It reaches Expo'70 Commemoriative Park.
 
@@ -89,53 +91,53 @@ It was unclear where North Osaka Cycle Path begins. There seems to be no signboa
 
 "Tower of the sun" is a must-see landmark which is located in Expo'70 Commemoriative Park. However, you can *not* enter the park with your bike. Just took a photo with Tower of the sun outside the park.
 
-![Title-image](/image/n-osaka-cycle-path-01.webp)
+![My bike with Tower of the sun](/image/n-osaka-cycle-path-01.webp)
 
 Let's get started on the cycle road surrounding the park. The cycle road is separated from a driveway and a walkway.
 
-![Title-image](/image/n-osaka-cycle-path-02.webp)
+![Cycle road surrounding the park](/image/n-osaka-cycle-path-02.webp)
 
 ## Going Under Osaka Monorail
 
 Turning right down on east of the park along with the monorail.
 
-![Title-image](/image/n-osaka-cycle-path-03.webp)
+![Cycle path](/image/n-osaka-cycle-path-03.webp)
 
 Going under the monorail. Cycle path is sometimes painted blue but not all painted. 
 
-![Title-image](/image/n-osaka-cycle-path-04.webp)
+![Cycle path painted blue](/image/n-osaka-cycle-path-04.webp)
 
 Where is the cycle path? It's not obvious. Just heading south on the road.
 
-![Title-image](/image/n-osaka-cycle-path-05.webp)
+![Going south](/image/n-osaka-cycle-path-05.webp)
 
 Stairways appeared several times. I had to get the bike off and walk up and down. Muum,,,
 
-![Title-image](/image/n-osaka-cycle-path-06.webp)
+![Stairway](/image/n-osaka-cycle-path-06.webp)
 
 Got to Yodo River, the biggest river that flows through Osaka. After acrossing Torikai-ohashi bridge, turned right to go on riverside.
 
-![Title-image](/image/n-osaka-cycle-path-07.webp)
+![Torikai-ohashi bridge](/image/n-osaka-cycle-path-07.webp)
 
-![Title-image](/image/n-osaka-cycle-path-08.webp)
+![Riverside](/image/n-osaka-cycle-path-08.webp)
 
 ## Kema Lock Gate to Osaka City Hall
 
 20 minuts from Trikai-ohashi bridge, you can find a lock gate - Kema Lock.
 
-![Title-image](/image/n-osaka-cycle-path-09.webp)
+![Kema Lock](/image/n-osaka-cycle-path-09.webp)
 
 Going riverside of O river. The surface of the river is very close to the road.
 
-![Title-image](/image/n-osaka-cycle-path-10.webp)
+![Riverside](/image/n-osaka-cycle-path-10.webp)
 
 Sandy shore where people are doing beach volleyball.
 
-![Title-image](/image/n-osaka-cycle-path-11.webp)
+![Sandy shore](/image/n-osaka-cycle-path-11.webp)
 
 Finally arrived at Osaka City Hall. 
 
-![Title-image](/image/n-osaka-cycle-path-12.webp)
+![Goal - Osaka City Hall](/image/n-osaka-cycle-path-12.webp)
 
 ## Conclusion
 

@@ -7,6 +7,12 @@ theme = "ananke"
 Description = "Cycling, outdoor spots in/around Osaka."
 
 [markup]
+  [markup.goldmark.parser]
+    autoHeadingID = true
+    autoHeadingIDType = "github"
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
