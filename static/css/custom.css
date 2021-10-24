@@ -1,0 +1,18 @@
+@media (max-width: 500px){
+.strava {/* Strava埋め込み のレスポンシブ対応 */
+height: 0;
+overflow: hidden;
+padding-bottom: 260px; /*68.6%; 405/590x0.64 */
+position: relative;
+max-width: initial;
+margin-left: auto;
+margin-right: auto;
+overflow-x: hidden;
+}
+.strava iframe {
+transform:scale(0.64);
+transform-origin:0 0;
+max-width: initial;
+}
+}
+    
