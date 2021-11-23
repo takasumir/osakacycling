@@ -2,6 +2,7 @@
 title: "Satsukiyama Hill Climb"
 date: 2021-10-23T15:51:40+09:00
 draft: false
+keywords: "Cycling, Osaka, Satsukiyama, Hill Climbing"
 ---
 
 ![Mt.Rokko](DSCF0290.webp)

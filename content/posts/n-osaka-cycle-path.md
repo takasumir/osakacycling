@@ -2,6 +2,7 @@
 title: "North Osaka Cycle Path"
 date: 2021-05-05T14:01:40+09:00
 draft: false
+keywords: "Cycling, Osaka, North Osaka Cycle Path, Yodo River, Expo'70 Park"
 ---
 
 ![Title-image](/image/n-osaka-cycle-path-00.webp)
