@@ -3,9 +3,10 @@ title: "Rokko Mountain Climbing - Rock Garden"
 date: 2021-11-23T08:37:26+09:00
 draft: false
 keywords: "Mt. Rokko, Rokko Mountain, Climbing, Rock Garden, Egenoyama Ruins"
+featured_image: '/posts/rokko-climbing/images/IMG_20210606_125713.webp'
 ---
 
-![Kazafukiiwa](IMG_20210606_125713.webp)
+<!-- ![Kazafukiiwa](images/IMG_20210606_125713.webp) -->
 
 June is a rany season in most parts of Japan. It was a happy sunny holiday when I decided to climb "Rock Garden" in Mt. Rokko with my family. Contrary to its name, Rock Garden, climbing the route is easy and fun. Recommended for kids and families.
 
