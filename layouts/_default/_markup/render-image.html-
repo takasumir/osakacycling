@@ -1,0 +1,10 @@
+<!-- layouts/_default/_markup/render-image.html -->
+{{ $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) }}
+
+<img
+  src="{{ .Page.Resource.RelPermalink }}"
+  alt="{{ .Text }}"
+  loading="lazy"
+  width="{{ $image.Width }}"
+  height="{{ $image.Height }}"
+/>

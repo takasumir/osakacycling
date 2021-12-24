@@ -1,3 +1,21 @@
 <!-- layouts/_default/_markup/render-image.html -->
+{{ $image := (.Destination | safeURL) }}
+{{ $contentImage := path.Join "/content" .Page.RelPermalink $image }}
+{{ $staticImage := path.Join "/static" (.Destination | safeURL) }}
+{{ $imgcnf := "" }}
+{{ if fileExists $contentImage }}
+{{ $imgcnf = imageConfig $contentImage }}
+{{ end }}
+{{ if fileExists $staticImage }}
+{{ $imgcnf = imageConfig $staticImage }}
+{{ end }}
+<img
+  src="{{ .Destination | safeURL }}"
+  alt="{{ .Text }}"
+  loading="lazy"
+{{ with $imgcnf }}
+  width="{{ .Width }}"
+  height="{{ .Height }}"
+{{ end }}
+/>
 
-<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" loading="lazy" />
