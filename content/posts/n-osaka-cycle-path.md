@@ -14,7 +14,6 @@ If you are thinking to enjoy cycling in Osaka, Japan, There would be several cho
 * South Kawachi Cycle Path
 * Naniwa Cycle Path
 * North Osaka Cycle Path
-{.cycling-path}
 
 North Osaka Cycle Path begins at Osaka city hall. It reaches Expo'70 Commemoriative Park.
 
@@ -22,8 +21,8 @@ Although people usually go from south to north, I took opposite direction.
 
 ## North Osaka Cycle Path - Map
 
-<iframe title="Strava - North Osaka Cycle Path" allowtransparency="true" frameborder="0" height="405" loading="lazy" scrolling="no" src="https://www.strava.com/activities/4208848649/embed/7571a178d858e2fdb62c3260d32a0f8394256ac7" width="590" style="display: block; margin-left: auto; margin-right: auto; max-width: 100% !important">
- </iframe>
+<div class="strava"><iframe title="Strava - North Osaka Cycle Path" allowtransparency="true" frameborder="0" height="405" loading="lazy" scrolling="no" src="https://www.strava.com/activities/4208848649/embed/7571a178d858e2fdb62c3260d32a0f8394256ac7" width="590" >
+ </iframe></div>
  
 ## Starting from Expo'70 Commemoriative Park
 
