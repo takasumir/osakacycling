@@ -1,0 +1,8 @@
+<div
+  id="{{.Get "id"}}"
+  class="mapbox"
+  data-center="{{.Get "center"}}"
+  data-zoom="{{.Get "zoom" }}"
+  {{ $json := .Page.Resources.GetMatch "geodata.json"}}
+  data-source="{{ $json.RelPermalink }}"
+></div>
