@@ -2,7 +2,7 @@
 categories:
   - bike
   - cycle path
-date: "2025-02-15T23:44:06+09:00"
+date: "2025-08-01T17:57:06+09:00"
 description: "Discover Osaka's Minamikawachi Cycle Line! Cycle 21.1km of scenic riverside paths and explore local culture. Enjoy well-maintained routes, iconic bridges, and convenient access. Perfect for an exhilarating ride in Osaka, Japan."
 draft: false
 featured_image: "images/0015-1.jpg"
