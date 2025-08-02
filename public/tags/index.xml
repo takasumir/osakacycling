@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Osaka Cycling</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Aug 2025 23:44:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 08:08:08 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cycling</title>
@@ -44,13 +44,6 @@
       <description></description>
     </item>
     <item>
-      <title>Minamikawachi Cycle Line</title>
-      <link>http://localhost:1313/tags/minamikawachi-cycle-line/</link>
-      <pubDate>Fri, 01 Aug 2025 23:44:08 +0900</pubDate>
-      <guid>http://localhost:1313/tags/minamikawachi-cycle-line/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Osaka</title>
       <link>http://localhost:1313/tags/osaka/</link>
       <pubDate>Fri, 01 Aug 2025 23:44:08 +0900</pubDate>
@@ -72,10 +65,24 @@
       <description></description>
     </item>
     <item>
+      <title>South Kawachi Cycle Line</title>
+      <link>http://localhost:1313/tags/south-kawachi-cycle-line/</link>
+      <pubDate>Fri, 01 Aug 2025 23:44:08 +0900</pubDate>
+      <guid>http://localhost:1313/tags/south-kawachi-cycle-line/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cycle Line</title>
       <link>http://localhost:1313/tags/cycle-line/</link>
       <pubDate>Fri, 01 Aug 2025 17:57:06 +0900</pubDate>
       <guid>http://localhost:1313/tags/cycle-line/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>North Osaka Cycle Line</title>
+      <link>http://localhost:1313/tags/north-osaka-cycle-line/</link>
+      <pubDate>Wed, 05 May 2021 14:01:40 +0900</pubDate>
+      <guid>http://localhost:1313/tags/north-osaka-cycle-line/</guid>
       <description></description>
     </item>
   </channel>

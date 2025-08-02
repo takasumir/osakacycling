@@ -9,9 +9,9 @@ featured_image: '/posts/n-kawachi-cycle-path/images/0037-1.webp'
 
 ## North Kawachi Cycle Path
 
-Kitakawachi Cycle Line is one of Osaka Prefecture's large-scale bicycle paths.
-The Kitakawachi Cycle Line is a 45.5 km cycle path that starts from Tsurumi-ryokuchi and circles the Osaka Central Loop Line, the left bank of the Yodogawa River, the Hoya River, and the Daini-Keihan Road.
-Together with the Minami-Kawachi Cycle Line, Kita-Osaka Cycle Line, and Naniwa Bike Path, it is one of Osaka's representative bicycle paths.
+North Kawachi (Kitakawachi) Cycle Line is one of Osaka Prefecture's large-scale bicycle paths.
+The North Kawachi Cycle Line is a 45.5 km cycle path that starts from Tsurumi-ryokuchi park and circles the Osaka Central Loop Line, the left bank of the Yodogawa River, the Hoya River, and the Daini-Keihan Road.
+Together with the South Kawachi Cycle Line, North Osaka Cycle Line, and Naniwa Bike Path, it is one of Osaka's representative bicycle paths.
 
 ## Map
 
@@ -107,7 +107,7 @@ From here, you can enter the Yodogawa River.
 
 ![Entrance of Yodogawa River's bank](images/020.webp)
 
-At the entrance to the Yodogawa River, there is a signboard of the Kitakawachi Cycle Line. Up to this point, the road was not good to ride the bicycle on, but from here, you can feel confortable riding.
+At the entrance to the Yodogawa River, there is a signboard of the North Kawachi Cycle Line. Up to this point, the road was not good to ride the bicycle on, but from here, you can feel confortable riding.
 
 ![Signboard of North Kawachi cycle path](images/020-1.webp)
 
@@ -193,7 +193,7 @@ After crossing Route 1, I entered Yamada Pond Park along the cycle line. There w
 
 ![Yamada Pond](images/0038-2.webp)
 
-I left Yamada Pond Park and returned to the Kitakawachi Cycle Line.
+I left Yamada Pond Park and returned to the North Kawachi Cycle Line.
 
 ![Along Yamada Pond Park](images/039.webp)
 
@@ -209,7 +209,7 @@ Climbing up the hill, I crossed the Hoya River and headed toward the Daini-Keiha
 
 ![Crossing Hoya River](images/042.webp)
 
-The correct way is to go straight up here, but at first I mistakenly took the left. However, this road itself is off the cycle line, and it seems that the Kitakawachi Cycle Line has a parallel bicycle path on the right side across the river.
+The correct way is to go straight up here, but at first I mistakenly took the left. However, this road itself is off the cycle line, and it seems that the North Kawachi Cycle Line has a parallel bicycle path on the right side across the river.
 
 ![Slope](images/043.webp)
 
@@ -231,7 +231,7 @@ When I reached Daini-Keihan Road, there was an entrance that looks like a bicycl
 
 We have come a long way from Tsurumi-ryokuchi. All that remains is to continue straight ahead.
 
-![Signboard of Kitakawachi Cycle Path](images/0046-2.webp)
+![Signboard of North Kawachi Cycle Path](images/0046-2.webp)
 
 ## Under Daini Keihan Road
 
@@ -255,9 +255,9 @@ I crossed a railroad on the way which cross the tracks of the Gakkentoshi Line.
 
 ![Rail crossing](images/051.webp)
 
-The Kitakawachi Cycle Line runs parallel to the Daini-Keihan Road on both sides. This time I took the right side. Looking at Google Maps, the left side of the road has a slope that goes up and over the tracks, so the left side have been easier to go.
+The North Kawachi Cycle Line runs parallel to the Daini-Keihan Road on both sides. This time I took the right side. Looking at Google Maps, the left side of the road has a slope that goes up and over the tracks, so the left side have been easier to go.
 
-The road surface is still in poor condition, but there are some places where the pavement is new, that have less road resistance. I think all along the road used to be like this when the Kitakawachi Cycle Line was constructed.
+The road surface is still in poor condition, but there are some places where the pavement is new, that have less road resistance. I think all along the road used to be like this when the North Kawachi Cycle Line was constructed.
 
 ![New pavement](images/052.webp)
 
@@ -311,4 +311,4 @@ Even though it was only 45.5 km long, the last part of the cycling was hard for 
 
 ## Summary
 
-The Kitakawachi Cycle Line is not easy to ride except for the bank of the Yodogawa River, nor does it have any highlights. It was not as interesing as expected. You can park your car at Tsurumi-ryokuchi and Fukakita-ryokuchi. I think the South Kawachi Cycle Line was more fun to ride.
+The North Kawachi Cycle Line is not easy to ride except for the bank of the Yodogawa River, nor does it have any highlights. It was not as interesing as expected. You can park your car at Tsurumi-ryokuchi and Fukakita-ryokuchi. I think the South Kawachi Cycle Line was more fun to ride.

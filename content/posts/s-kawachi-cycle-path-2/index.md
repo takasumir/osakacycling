@@ -3,42 +3,42 @@ categories:
   - bike
   - cycle path
 date: "2025-08-01T23:44:08+09:00"
-description: Discover an enchanting cycling course on Osaka's Minamikawachi Cycle Line, transforming your return journey into a captivating exploration of historic townscapes like Tondabayashi Jinaimachi and ancient wonders like the Furuichi Kofun Group.
+description: Discover an enchanting cycling course on Osaka's South Kawachi Cycle Line, transforming your return journey into a captivating exploration of historic townscapes like Tondabayashi Jinaimachi and ancient wonders like the Furuichi Kofun Group.
 draft: false
 featured_image: "images/0041.jpg"
-summary: On the return trip of the Minamikawachi Cycle Line, I transformed a simple ride back into a historical adventure, making delightful detours to explore the charming old townscape of Tondabayashi Jinaimachi and the majestic ancient tombs of the Furuichi Kofun Group, including Hōnda Gobyōyama Kofun.
+summary: On the return trip of the South Kawachi Cycle Line, I transformed a simple ride back into a historical adventure, making delightful detours to explore the charming old townscape of Tondabayashi Jinaimachi and the majestic ancient tombs of the Furuichi Kofun Group, including Hōnda Gobyōyama Kofun.
 tags:
   - Cycling
   - Pottering
   - Road Bike
   - Madone2.1
   - Osaka
-  - Minamikawachi Cycle Line
+  - South Kawachi Cycle Line
   - Cycling Road
   - Jinaimachi
   - Kofun
-keywords: "Cycling, Pottering, Road Bike, Madone2.1, Osaka, Minamikawachi Cycle Line, Cycling Road, Jinaimachi, Kofun"
+keywords: "Cycling, Pottering, Road Bike, Madone2.1, Osaka, South Kawachi Cycle Line, Cycling Road, Jinaimachi, Kofun"
 js: js/mbox.ts
-title: Minamikawachi Cycle Line - Your Return Journey Through History and Scenery!
+title: South Kawachi Cycle Line - Your Return Journey Through History and Scenery!
 ---
 
-Having conquered Osaka Prefecture's Minamikawachi Cycle Line from the vibrant Taisho Bridge to its endpoint, I decided to elevate the return journey from a mere backtrack to an unforgettable adventure! Instead of retracing my exact steps, I wove through time and beauty, making delightful detours to explore the charming old townscape of Tondabayashi Jinaimachi and the majestic ancient tombs of the Furuichi Kofun Group, including the grand Hōnda Gobyōyama Kofun, all on my way back to Taisho Bridge. Get ready to discover hidden gems and historical wonders on two wheels!
+Having conquered Osaka Prefecture's South Kawachi Cycle Line from the vibrant Taisho Bridge to its endpoint, I decided to elevate the return journey from a mere backtrack to an unforgettable adventure! Instead of retracing my exact steps, I wove through time and beauty, making delightful detours to explore the charming old townscape of Tondabayashi Jinaimachi and the majestic ancient tombs of the Furuichi Kofun Group, including the grand Hōnda Gobyōyama Kofun, all on my way back to Taisho Bridge. Get ready to discover hidden gems and historical wonders on two wheels!
 
 ## Your Scenic Route: A Blend of Cycling and Discovery!
 
 {{< mbox json="track.json" center="{ \"lng\": 135.597226, \"lat\": 34.522955 }" zoom="10" style="" >}}
 
-Your journey kicks off at the Minamikawachi Cycle Line's endpoint, where National Route 170 meets National Route 310. But here's where the adventure truly begins! Instead of just rejoining the cycle line, we'll venture straight through this intersection, then take a charming right onto a narrow road that leads you directly into the captivating heart of Tondabayashi Jinaimachi.
+Your journey kicks off at the South Kawachi Cycle Line's endpoint, where National Route 170 meets National Route 310. But here's where the adventure truly begins! Instead of just rejoining the cycle line, we'll venture straight through this intersection, then take a charming right onto a narrow road that leads you directly into the captivating heart of Tondabayashi Jinaimachi.
 
-After immersing yourself in the timeless ambiance of Jinaimachi, you'll cross the impressive Kongo Ohashi Bridge to gracefully rejoin the Minamikawachi Cycle Line for the majority of your return. As you approach the Nishimeihan Expressway, prepare for another exciting detour: head west to explore several fascinating kofun (ancient burial mounds) of the Furuichi Kofun Group, each with its own story, before finally returning to the Minamikawachi Cycle Line's original starting point.
+After immersing yourself in the timeless ambiance of Jinaimachi, you'll cross the impressive Kongo Ohashi Bridge to gracefully rejoin the South Kawachi Cycle Line for the majority of your return. As you approach the Nishimeihan Expressway, prepare for another exciting detour: head west to explore several fascinating kofun (ancient burial mounds) of the Furuichi Kofun Group, each with its own story, before finally returning to the South Kawachi Cycle Line's original starting point.
 
 ## From Cycle Line's End to the Historic Charms of Jinaimachi!
 
-My previous ride saw me conquer the Minamikawachi Cycle Line from its lively start at Taisho Bridge to its end. For the return, I yearned for something more than just a repeat. That's when I set my sights on Tondabayashi Jinaimachi, a true hidden gem brimming with beautifully preserved old townscapes – a perfect next stop for my cycling exploration!
+My previous ride saw me conquer the South Kawachi Cycle Line from its lively start at Taisho Bridge to its end. For the return, I yearned for something more than just a repeat. That's when I set my sights on Tondabayashi Jinaimachi, a true hidden gem brimming with beautifully preserved old townscapes – a perfect next stop for my cycling exploration!
 
-![Minamikawachi Cycle Line Endpoint](./images/0021-1.jpg)
+![South Kawachi Cycle Line Endpoint](./images/0021-1.jpg)
 
-You'll pedal north along National Route 170, a straightforward stretch that builds anticipation for what's ahead. While the Minamikawachi Cycle Line typically veers left here towards National Route 309, you'll continue straight north. Then, with a turn right around Henan Prefectural High School, a narrow road will guide you into the evocative, atmospheric streets that signal your arrival in Jinaimachi – prepare to be charmed!
+You'll pedal north along National Route 170, a straightforward stretch that builds anticipation for what's ahead. While the South Kawachi Cycle Line typically veers left here towards National Route 309, you'll continue straight north. Then, with a turn right around Henan Prefectural High School, a narrow road will guide you into the evocative, atmospheric streets that signal your arrival in Jinaimachi – prepare to be charmed!
 
 ![Near the entrance to Jinaimachi](./images/0022.jpg)
 ![Road in front of the Former Sugiyama Residence](./images/0023-1.jpg)
@@ -67,15 +67,15 @@ Who knew such a wonderfully preserved, almost cinematic, old townscape existed r
 
 ![Flowers blooming in an alley in Jinaimachi](./images/0023.jpg)
 
-## Rejoining the Flow: Back on the Minamikawachi Cycle Line!
+## Rejoining the Flow: Back on the South Kawachi Cycle Line!
 
-Exiting Jinaimachi to the east, you'll swiftly reach the impressive Kongo Ohashi Bridge. The Minamikawachi Cycle Line awaits you on the left bank of the Ishikawa River, so simply cross the bridge to continue your adventure.
+Exiting Jinaimachi to the east, you'll swiftly reach the impressive Kongo Ohashi Bridge. The South Kawachi Cycle Line awaits you on the left bank of the Ishikawa River, so simply cross the bridge to continue your adventure.
 
 ![Kongo Ohashi Bridge](./images/0025-1.jpg)
 
-After crossing the bridge and turning left, I scouted for the perfect entry point from the roadway back onto the Minamikawachi Cycle Line. There it was: a break in the fence, allowing seamless access to the pedestrian path. From this very spot, you can effortlessly descend to the tranquil riverside path.
+After crossing the bridge and turning left, I scouted for the perfect entry point from the roadway back onto the South Kawachi Cycle Line. There it was: a break in the fence, allowing seamless access to the pedestrian path. From this very spot, you can effortlessly descend to the tranquil riverside path.
 
-![Entrance to Minamikawachi Cycle Line near Kongo Ohashi Bridge](./images/0025-2.jpg)
+![Entrance to South Kawachi Cycle Line near Kongo Ohashi Bridge](./images/0025-2.jpg)
 
 On my return journey, I was delighted to once again glide across the magnificent Ishikawa Cycle Bridge. This iconic spot truly is an unmissable highlight of the route!
 
@@ -89,13 +89,13 @@ Gazing beyond the Kamoi Weir, I wondered if those majestic peaks were Mount Yama
 
 ![Mount Yamato Katsuragi (left) and Mount Kongo (right) seen through Kamoi Weir](./images/0027.jpg)
 
-From this point, it was a pure, exhilarating ride back along the Minamikawachi Cycle Line. As I neared the end of the Ishikawa River section, just before the Nishimeihan Expressway, a gently rising, verdant hill emerged into view. This was the impressive Hōnda Gobyōyama Kofun (Emperor Ōjin's Mausoleum), the largest and most captivating kofun within the Furuichi Kofun Group.
+From this point, it was a pure, exhilarating ride back along the South Kawachi Cycle Line. As I neared the end of the Ishikawa River section, just before the Nishimeihan Expressway, a gently rising, verdant hill emerged into view. This was the impressive Hōnda Gobyōyama Kofun (Emperor Ōjin's Mausoleum), the largest and most captivating kofun within the Furuichi Kofun Group.
 
 ![Bicycle and Hōnda Gobyōyama Kofun in the distance](./images/0028.jpg)
 
 ## Unearthing History: Exploring the Furuichi Kofun Group!
 
-From the Minamikawachi Cycle Line, I veered west, my sights set firmly on the Hōnda Gobyōyama Kofun. That distinct hill in the back right stood out against the flat landscape, ensuring I wouldn't lose my way – a clear path to ancient wonders!
+From the South Kawachi Cycle Line, I veered west, my sights set firmly on the Hōnda Gobyōyama Kofun. That distinct hill in the back right stood out against the flat landscape, ensuring I wouldn't lose my way – a clear path to ancient wonders!
 
 ![Heading towards Hōnda Gobyōyama Kofun](./images/0029-1.jpg)
 
@@ -143,11 +143,11 @@ Here's the classic front-on shot of a kofun. While it's a bit smaller than the g
 
 ![Torii gate of Nakatsuyama Kofun](./images/0037.jpg)
 
-## Mission Accomplished: Back at the Minamikawachi Cycle Line Starting Point!
+## Mission Accomplished: Back at the South Kawachi Cycle Line Starting Point!
 
-This fascinating area, known as the Furuichi Kofun Group, is absolutely teeming with ancient burial mounds, but having had my fill of historical exploration, it was time to rejoin the Minamikawachi Cycle Line! I connected with the Yamato River path and put in a final burst of energy, sprinting towards the cycle line's starting point.
+This fascinating area, known as the Furuichi Kofun Group, is absolutely teeming with ancient burial mounds, but having had my fill of historical exploration, it was time to rejoin the South Kawachi Cycle Line! I connected with the Yamato River path and put in a final burst of energy, sprinting towards the cycle line's starting point.
 
-![Minamikawachi Cycle Line along the Yamato River](./images/0038.jpg)
+![South Kawachi Cycle Line along the Yamato River](./images/0038.jpg)
 
 And just like that, I was back at the Taisho Bridge starting point, bringing this incredible cycling journey to a triumphant close!
 
@@ -155,8 +155,8 @@ And just like that, I was back at the Taisho Bridge starting point, bringing thi
 
 The path was alive with activity, as countless cyclists and runners whizzed by, one after another. This truly is Osaka's top recommended bicycle path – it's a blast to ride, and the opportunities for spontaneous sightseeing detours make it an utterly unforgettable experience!
 
-![Cyclists proceeding on the Minamikawachi Cycle Line](./images/0040.jpg)
+![Cyclists proceeding on the South Kawachi Cycle Line](./images/0040.jpg)
 
 ## Summary
 
-The Minamikawachi Cycle Line (with the exception of the national highway section near the endpoint) is a wonderfully maintained and visually stunning bicycle path that promises an exhilarating ride. Beyond the main route, the charming detours offer incredible value. I wholeheartedly recommend taking the time to explore the captivating Tondabayashi Jinaimachi and the majestic Furuichi Kofun Group – they are truly sights to behold!
+The South Kawachi Cycle Line (with the exception of the national highway section near the endpoint) is a wonderfully maintained and visually stunning bicycle path that promises an exhilarating ride. Beyond the main route, the charming detours offer incredible value. I wholeheartedly recommend taking the time to explore the captivating Tondabayashi Jinaimachi and the majestic Furuichi Kofun Group – they are truly sights to behold!
