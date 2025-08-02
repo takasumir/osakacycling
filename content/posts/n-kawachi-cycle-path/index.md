@@ -2,7 +2,7 @@
 title: "North Kawachi Cycle Path"
 date: 2024-03-09T17:34:43+09:00
 draft: false
-js: mapbox.js
+js: js/mbox.ts
 keywords: "Cycling, Osaka, Cycle Path, Cycle Line, North Kawachi Cycle Path"
 featured_image: '/posts/n-kawachi-cycle-path/images/0037-1.webp'
 ---
@@ -15,7 +15,7 @@ Together with the Minami-Kawachi Cycle Line, Kita-Osaka Cycle Line, and Naniwa B
 
 ## Map
 
-{{< mapbox id="map1" lng="135.641885" lat="34.777" zoom="10.5" >}}
+{{< mbox json="geodata.json" center="{\"lng\": 135.641885, \"lat\": 34.777 }" zoom=10.5 style="">}}
 
 ## Starting from Tsurumi-ryokuchi Park
 

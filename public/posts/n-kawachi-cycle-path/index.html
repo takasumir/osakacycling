@@ -65,17 +65,12 @@ Together with the Minami-Kawachi Cycle Line, Kita-Osaka Cycle Line, and Naniwa B
   <meta name="twitter:title" content="North Kawachi Cycle Path">
   <meta name="twitter:description" content="North Kawachi Cycle Path Kitakawachi Cycle Line is one of Osaka Prefecture’s large-scale bicycle paths. The Kitakawachi Cycle Line is a 45.5 km cycle path that starts from Tsurumi-ryokuchi and circles the Osaka Central Loop Line, the left bank of the Yodogawa River, the Hoya River, and the Daini-Keihan Road. Together with the Minami-Kawachi Cycle Line, Kita-Osaka Cycle Line, and Naniwa Bike Path, it is one of Osaka’s representative bicycle paths.">
 
-	  
-
-<link
-  href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css"
-  rel="stylesheet"
-/>
-<script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
-
-<script type="module" src="/mapbox.js" defer></script>
-
-
+	<link
+        href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css"
+        rel="stylesheet"
+      />
+      <script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
+        <script defer src="/js/mbox.js"></script>
   </head><body class="ma0 avenir bg-near-white development">
 
     
@@ -141,13 +136,11 @@ The Kitakawachi Cycle Line is a 45.5 km cycle path that starts from Tsurumi-ryok
 Together with the Minami-Kawachi Cycle Line, Kita-Osaka Cycle Line, and Naniwa Bike Path, it is one of Osaka&rsquo;s representative bicycle paths.</p>
 <h2 id="map">Map</h2>
 <div
-  id="map1"
-  class="mapbox"
-  data-lng="135.641885"
-  data-lat="34.777"
+  class="mapbox h-80 w-full my-4"
+  data-json="geodata.json"
+  data-center="{&#34;lng&#34;: 135.641885, &#34;lat&#34;: 34.777 }"
   data-zoom="10.5"
-  
-  data-source="/posts/n-kawachi-cycle-path/geodata.json"
+  data-style=""
 ></div>
 
 <h2 id="starting-from-tsurumi-ryokuchi-park">Starting from Tsurumi-ryokuchi Park</h2>

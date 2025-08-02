@@ -6,10 +6,10 @@
         "type": "Point"
       },
       "properties": {
-        "description": "鶴見緑地",
-        "name": "鶴見緑地",
-        "html": "<p style=\"margin:0;width:120px\">鶴見緑地<br/><img alt=\"鶴見緑地\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVDlSsSxPUoWBIVGaqXv_6XbZXwFZswmdCK2DM8CdGa-SGy29qKAykH1UpJ7mOdbMMA6yyX5s4-kf7ixct6gNegnKlfPFPtX_2x4ZeMWOdr2IL7SS2qJQ5KLGkECJGqERK6zU9lz9dvFT-pjQivQunYfKEeYtsJYv20-byhImfMLiuKUddsbQSGvqMO-A/s320/001.webp\"/></p>",
-        "marker": "start"
+        "description": "Tsurumi Ryokuchi Park",
+        "name": "Tsurumi Ryokuchi Park",
+        "html": "<p style=\"margin:0;width:120px\">Tsurumi Ryokuchi Park<br/><img alt=\"Tsurumi Ryokuchi Park\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVDlSsSxPUoWBIVGaqXv_6XbZXwFZswmdCK2DM8CdGa-SGy29qKAykH1UpJ7mOdbMMA6yyX5s4-kf7ixct6gNegnKlfPFPtX_2x4ZeMWOdr2IL7SS2qJQ5KLGkECJGqERK6zU9lz9dvFT-pjQivQunYfKEeYtsJYv20-byhImfMLiuKUddsbQSGvqMO-A/s320/001.webp\"/></p>",
+        "marker": "<svg height='40' id='start_svg' version='1.1' viewBox='0 96 960 960' width='40' xmlns='http://www.w3.org/2000/svg' xmlns:svg='http://www.w3.org/2000/svg'><path d='M 480,976 C 372.66667,884.66667 292.5,799.83333 239.5,721.5 186.5,643.16667 160,570.66667 160,504 c 0,-100 32.16667,-179.66667 96.5,-239 64.33333,-59.33333 138.83333,-89 223.5,-89 84.66667,0 159.16667,29.66667 223.5,89 64.33333,59.33333 96.5,139 96.5,239 0,66.66667 -26.5,139.16667 -79.5,217.5 C 667.5,799.83333 587.33333,884.66667 480,976 Z' id='path1787' style='fill:#42a5f5;stroke-width:72;stroke:#42a5f5'></path><path class='UnoptimicedTransforms' d='m 427.61984,337.91246 153.001,163.30724 m -153.001,163.30726 153.001,-163.30724' id='path1053' style='opacity:1;fill:none;stroke:#fff;stroke-width:69.14210521;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1' transform='matrix(0.98232578,0,0,0.98463912,9.712259,-2.5603181)'></path></svg>"
       },
       "type": "Feature"
     },
@@ -19,9 +19,9 @@
         "type": "Point"
       },
       "properties": {
-        "description": "ローソン",
-        "name": "ローソン",
-        "html": "<p style=\"margin:0;width:120px\">ローソン<br/><img alt=\"ローソン\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOvdV9QvE1ZZjS863le-QmQwbk-qnkMFV3geOygqDVK-28bF-J9kLKks2mTYle7uG17pb6mB7WGK-XBXS3Ib1BnPXqfFsf36OGk63PWe8caCPdSQM_6RAJZKGo9bZNHTTR-0JipaZDJsqu2AP9HG4AgQPkXOq3orVKyfckvDfAcrmFvXY0Ppo-NPgAgg/s320/045.webp\"/></p>"
+        "description": "Lawson",
+        "name": "Lawson",
+        "html": "<p style=\"margin:0;width:120px\">Lawson<br/><img alt=\"Lawson\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOvdV9QvE1ZZjS863le-QmQwbk-qnkMFV3geOygqDVK-28bF-J9kLKks2mTYle7uG17pb6mB7WGK-XBXS3Ib1BnPXqfFsf36OGk63PWe8caCPdSQM_6RAJZKGo9bZNHTTR-0JipaZDJsqu2AP9HG4AgQPkXOq3orVKyfckvDfAcrmFvXY0Ppo-NPgAgg/s320/045.webp\"/></p>"
       },
       "type": "Feature"
     },
@@ -31,9 +31,9 @@
         "type": "Point"
       },
       "properties": {
-        "description": "淀川左岸入口",
-        "name": "淀川左岸入口",
-        "html": "<p style=\"margin:0;width:120px\">淀川左岸入口<br/><img alt=\"淀川左岸入口\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaR5ct0PoMSmdtsDKAzOr93_xD9AVOEzkGVhSeSGSdPDGLtdd-7-zAljhrvZoXL-urMSM5VCHNWz5PXP0m_EKbEiFDmYw8j3bvChVZusKczV2yUmYmfAIrZqgMLZtMOkaBln4AGyktDeA5EVzLAFfOfJrQRJaOvtQ9ayPaFHN_rZrap2v6_fpPQXbSIuk/s320/020-3.webp\"/></p>"
+        "description": "Left bank of the Yodo River",
+        "name": "Left bank of the Yodo River",
+        "html": "<p style=\"margin:0;width:120px\">Left bank of the Yodo River<br/><img alt=\"Left bank of the Yodo River\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaR5ct0PoMSmdtsDKAzOr93_xD9AVOEzkGVhSeSGSdPDGLtdd-7-zAljhrvZoXL-urMSM5VCHNWz5PXP0m_EKbEiFDmYw8j3bvChVZusKczV2yUmYmfAIrZqgMLZtMOkaBln4AGyktDeA5EVzLAFfOfJrQRJaOvtQ9ayPaFHN_rZrap2v6_fpPQXbSIuk/s320/020-3.webp\"/></p>"
       },
       "type": "Feature"
     },
@@ -43,9 +43,9 @@
         "type": "Point"
       },
       "properties": {
-        "description": "山田池公園",
-        "name": "山田池公園",
-        "html": "<p style=\"margin:0;width:120px\">山田池公園<br/><img alt=\"山田池公園\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjysBrPNFLT2PB11zwYF_JEPtps1Dq5IoMPTk0UBGEO3VD_137bgeiGiw7a9o7aR9O56aEJrkorrOCAwsJnhAt6J3XdfNDG3J8vyIU1ACN88Xur6fKk04xwavVpKOEzg-3NA2NAXVvp9fR6Pv5L0zn7J2w64APlt9B2e73oMAeIjkCC4TfBYy3ZOkk1K58/s320/0038-2.webp\"/></p>"
+        "description": "Yamada Ike Park",
+        "name": "Yamada Ike Park",
+        "html": "<p style=\"margin:0;width:120px\">Yamada Ike Park<br/><img alt=\"Yamada Ike Park\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjysBrPNFLT2PB11zwYF_JEPtps1Dq5IoMPTk0UBGEO3VD_137bgeiGiw7a9o7aR9O56aEJrkorrOCAwsJnhAt6J3XdfNDG3J8vyIU1ACN88Xur6fKk04xwavVpKOEzg-3NA2NAXVvp9fR6Pv5L0zn7J2w64APlt9B2e73oMAeIjkCC4TfBYy3ZOkk1K58/s320/0038-2.webp\"/></p>"
       },
       "type": "Feature"
     },
@@ -55,9 +55,9 @@
         "type": "Point"
       },
       "properties": {
-        "description": "地下通路",
-        "name": "地下通路",
-        "html": "<p style=\"margin:0;width:120px\">地下通路<br/><img alt=\"地下通路\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3iMzlI95PguDwNwvTn6cTPrWGcjwsO0mj5umKsTafFLVQVIv0Y0iCF3BIx6qjS1KUKPWPtokw_E22jOP01lQE_lcwxAhgyjGoAJ1sbEH8ELCrETAWDL8_YOwvvt0_sE68LWA4pkZS3uSe8bZCdZ684sk8TeyxVEovTcB8Ka1VgD-lDxkAkZkZrKvc6YI/s320/008.webp\"/></p>"
+        "description": "Underground passage",
+        "name": "Underground passage",
+        "html": "<p style=\"margin:0;width:120px\">Underground passage<br/><img alt=\"Underground passage\" width=\"120\" height=\"80\"  src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3iMzlI95PguDwNwvTn6cTPrWGcjwsO0mj5umKsTafFLVQVIv0Y0iCF3BIx6qjS1KUKPWPtokw_E22jOP01lQE_lcwxAhgyjGoAJ1sbEH8ELCrETAWDL8_YOwvvt0_sE68LWA4pkZS3uSe8bZCdZ684sk8TeyxVEovTcB8Ka1VgD-lDxkAkZkZrKvc6YI/s320/008.webp\"/></p>"
       },
       "type": "Feature"
     },
