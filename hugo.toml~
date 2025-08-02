@@ -4,11 +4,11 @@ title = "Osaka Cycling"
 theme = "ananke"
 
 [module]
-[[module.imports]]
-disable = false
-ignoreConfig = false
-ignoreImports = false
-path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+  [[module.imports]]
+    disable = false
+    ignoreConfig = false
+    ignoreImports = false
+    path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 
 [params]
 Description = "Cycling, outdoor spots in/around Osaka."
