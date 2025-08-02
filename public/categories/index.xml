@@ -2,9 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Osaka Cycling</title>
-    <link>https://cycling.bchari.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Osaka Cycling</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cycling.bchari.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2025 23:44:06 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bike</title>
+      <link>http://localhost:1313/categories/bike/</link>
+      <pubDate>Sat, 15 Feb 2025 23:44:06 +0900</pubDate>
+      <guid>http://localhost:1313/categories/bike/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cycle Path</title>
+      <link>http://localhost:1313/categories/cycle-path/</link>
+      <pubDate>Sat, 15 Feb 2025 23:44:06 +0900</pubDate>
+      <guid>http://localhost:1313/categories/cycle-path/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

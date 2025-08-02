@@ -1,0 +1,39 @@
+baseURL = "https://cycling.bchari.com/"
+languageCode = "en-us"
+title = "Osaka Cycling"
+theme = "ananke"
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+[params]
+Description = "Cycling, outdoor spots in/around Osaka."
+custom_css = ["css/custom.css"]
+
+[markup]
+  [markup.goldmark.parser]
+    autoHeadingID = true
+    autoHeadingIDType = "github"
+#    [markup.goldmark.parser.attribute]
+#      block = true
+#      title = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+
+  [[related.indices]]
+    name = "date"
+    weight = 10

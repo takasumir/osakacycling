@@ -2,42 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Osaka Cycling</title>
-    <link>https://cycling.bchari.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Osaka Cycling</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Nov 2021 08:37:26 +0900</lastBuildDate><atom:link href="https://cycling.bchari.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 23:44:06 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explore Osaka&#39;s Scenic Minamikawachi Cycle Line\! - Outward Journey</title>
+      <link>http://localhost:1313/posts/s-kawachi-cycle-path/</link>
+      <pubDate>Sat, 15 Feb 2025 23:44:06 +0900</pubDate>
+      <guid>http://localhost:1313/posts/s-kawachi-cycle-path/</guid>
+      <description>&lt;p&gt;Are you looking for an exhilarating cycling adventure in Japan? Discover the Minamikawachi Cycle Line, a cycling path in Osaka Prefecture, offering a refreshing escape with picturesque riverside views!&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-the-minamikawachi-cycle-line&#34;&gt;What is the Minamikawachi Cycle Line?&lt;/h2&gt;&#xA;&lt;p&gt;The Minamikawachi Cycle Line is one of Osaka Prefecture&amp;rsquo;s grand cycling routes, stretching a delightful 21.1 km. While Osaka boasts other popular routes like the Kitakawachi Cycle Line, Kitaosaka Cycle Line, and Naniwa Cycle Road, the Minamikawachi Cycle Line offers a unique charm, particularly along its beautiful riverside sections.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>North Kawachi Cycle Path</title>
+      <link>http://localhost:1313/posts/n-kawachi-cycle-path/</link>
+      <pubDate>Sat, 09 Mar 2024 17:34:43 +0900</pubDate>
+      <guid>http://localhost:1313/posts/n-kawachi-cycle-path/</guid>
+      <description>&lt;h2 id=&#34;north-kawachi-cycle-path&#34;&gt;North Kawachi Cycle Path&lt;/h2&gt;&#xA;&lt;p&gt;Kitakawachi Cycle Line is one of Osaka Prefecture&amp;rsquo;s large-scale bicycle paths.&#xA;The Kitakawachi Cycle Line is a 45.5 km cycle path that starts from Tsurumi-ryokuchi and circles the Osaka Central Loop Line, the left bank of the Yodogawa River, the Hoya River, and the Daini-Keihan Road.&#xA;Together with the Minami-Kawachi Cycle Line, Kita-Osaka Cycle Line, and Naniwa Bike Path, it is one of Osaka&amp;rsquo;s representative bicycle paths.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rokko Mountain Climbing - Rock Garden</title>
-      <link>https://cycling.bchari.com/posts/rokko-climbing/</link>
+      <link>http://localhost:1313/posts/rokko-climbing/</link>
       <pubDate>Tue, 23 Nov 2021 08:37:26 +0900</pubDate>
-      
-      <guid>https://cycling.bchari.com/posts/rokko-climbing/</guid>
-      <description>June is a rany season in most parts of Japan. It was a happy sunny holiday when I decided to climb &amp;ldquo;Rock Garden&amp;rdquo; in Mt. Rokko with my family. Contrary to its name, Rock Garden, climbing the route is easy and fun. Recommended for kids and families.
-Climbing Route Access to Ashiyagawa Sta.: 20 min. from Osaka-Umeda by train (Hankyu Kobe line). Parking lot: There are several small parking lots around Ashiyagawa Sta.</description>
+      <guid>http://localhost:1313/posts/rokko-climbing/</guid>
+      <description>&lt;p&gt;June is a rany season in most parts of Japan. It was a happy sunny holiday when I decided to climb &amp;ldquo;Rock Garden&amp;rdquo; in Mt. Rokko with my family. Contrary to its name, Rock Garden, climbing the route is easy and fun. Recommended for kids and families.&lt;/p&gt;&#xA;&lt;h2 id=&#34;climbing-route&#34;&gt;Climbing Route&lt;/h2&gt;&#xA;&lt;iframe title=&#34;map&#34; width=&#34;100%&#34; height=&#34;300px&#34; frameborder=&#34;0&#34; allowfullscreen src=&#34;//umap.openstreetmap.fr/ja/map/mt-rokko-rock-garden_683879?scaleControl=false&amp;amp;miniMap=false&amp;amp;scrollWheelZoom=false&amp;amp;zoomControl=true&amp;amp;allowEdit=false&amp;amp;moreControl=true&amp;amp;searchControl=null&amp;amp;tilelayersControl=null&amp;amp;embedControl=null&amp;amp;datalayersControl=true&amp;amp;onLoadPanel=undefined&amp;amp;captionBar=false&#34;&gt;&lt;/iframe&gt;&lt;p&gt;&#xA;&#xA;&lt;p&gt;Access to Ashiyagawa Sta.: 20 min. from Osaka-Umeda by train (Hankyu Kobe line).&#xA;Parking lot: There are several small parking lots around Ashiyagawa Sta.&#xA;Climbing route: Total distance 6.0km. Time 3:39.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Satsukiyama Hill Climb</title>
-      <link>https://cycling.bchari.com/posts/satsukiyama-hill-climb/</link>
+      <link>http://localhost:1313/posts/satsukiyama-hill-climb/</link>
       <pubDate>Sat, 23 Oct 2021 15:51:40 +0900</pubDate>
-      
-      <guid>https://cycling.bchari.com/posts/satsukiyama-hill-climb/</guid>
-      <description>A famous hill climb cycling route in Osaka, Japan. Satsukiyama hill climb route starts from the entrance of Satsukiyama driveway. This route is 6.5km long and has an elevation gain of 448m. You can see the landscape of Mt. Rokkou and the cities under the mountain at the end of the route.
-Route This time I started at Max-Value supermarket then made a circuit including Satsukiyama hill climb. The total distance was 25.</description>
+      <guid>http://localhost:1313/posts/satsukiyama-hill-climb/</guid>
+      <description>&lt;!-- ![Mt.Rokko](DSCF0290.webp) --&gt;&#xA;&lt;p&gt;A famous hill climb cycling route in Osaka, Japan. Satsukiyama hill climb route starts from the entrance of Satsukiyama driveway. This route is 6.5km long and has an elevation gain of 448m. You can see the landscape of Mt. Rokkou and the cities under the mountain at the end of the route.&lt;/p&gt;&#xA;&lt;h2 id=&#34;route&#34;&gt;Route&lt;/h2&gt;&#xA;&lt;div class=&#34;strava&#34;&gt;&#xA;&lt;iframe allowtransparency=&#34;true&#34; frameborder=&#34;0&#34; height=&#34;405&#34; loading=&#34;lazy&#34; scrolling=&#34;no&#34; src=&#34;https://www.strava.com/activities/4112916799/embed/28ae7b979f315fd40ec6d1c0d3b0480ac17b7c1b&#34; width=&#34;590&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;This time I started at Max-Value supermarket then made a circuit including Satsukiyama hill climb. The total distance was 25.7km, elevation gain of 660m.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>North Osaka Cycle Path</title>
-      <link>https://cycling.bchari.com/posts/n-osaka-cycle-path/</link>
+      <link>http://localhost:1313/posts/n-osaka-cycle-path/</link>
       <pubDate>Wed, 05 May 2021 14:01:40 +0900</pubDate>
-      
-      <guid>https://cycling.bchari.com/posts/n-osaka-cycle-path/</guid>
-      <description>If you are thinking to enjoy cycling in Osaka, Japan, There would be several choices listed below.
-North Kawachi Cycle Path South Kawachi Cycle Path Naniwa Cycle Path North Osaka Cycle Path North Osaka Cycle Path begins at Osaka city hall. It reaches Expo&#39;70 Commemoriative Park.
-Although people usually go from south to north, I took opposite direction.
-North Osaka Cycle Path - Map Starting from Expo&#39;70 Commemoriative Park It was unclear where North Osaka Cycle Path begins.</description>
+      <guid>http://localhost:1313/posts/n-osaka-cycle-path/</guid>
+      <description>&lt;!-- ![Title-image](/image/n-osaka-cycle-path-00.webp) --&gt;&#xA;&lt;p&gt;If you are thinking to enjoy cycling in Osaka, Japan, There would be several choices listed below.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;North Kawachi Cycle Path&lt;/li&gt;&#xA;&lt;li&gt;South Kawachi Cycle Path&lt;/li&gt;&#xA;&lt;li&gt;Naniwa Cycle Path&lt;/li&gt;&#xA;&lt;li&gt;North Osaka Cycle Path&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;North Osaka Cycle Path begins at Osaka city hall. It reaches Expo&#39;70 Commemoriative Park.&lt;/p&gt;&#xA;&lt;p&gt;Although people usually go from south to north, I took opposite direction.&lt;/p&gt;&#xA;&lt;h2 id=&#34;north-osaka-cycle-path---map&#34;&gt;North Osaka Cycle Path - Map&lt;/h2&gt;&#xA;&lt;div class=&#34;strava&#34;&gt;&lt;iframe title=&#34;Strava - North Osaka Cycle Path&#34; allowtransparency=&#34;true&#34; frameborder=&#34;0&#34; height=&#34;405&#34; loading=&#34;lazy&#34; scrolling=&#34;no&#34; src=&#34;https://www.strava.com/activities/4208848649/embed/7571a178d858e2fdb62c3260d32a0f8394256ac7&#34; width=&#34;590&#34; &gt;&#xA; &lt;/iframe&gt;&lt;/div&gt;&#xA;&lt;h2 id=&#34;starting-from-expo70-commemoriative-park&#34;&gt;Starting from Expo&#39;70 Commemoriative Park&lt;/h2&gt;&#xA;&lt;p&gt;It was unclear where North Osaka Cycle Path begins. There seems to be no signboards or something that indicates the cyclie path. Since a cycle road makes a round of the park, you can start anywhere on the road. (See the red line below)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
