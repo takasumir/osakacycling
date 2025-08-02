@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kofun on Osaka Cycling</title>
+    <link>http://localhost:1313/tags/kofun/</link>
+    <description>Recent content in Kofun on Osaka Cycling</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 23:44:08 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kofun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minamikawachi Cycle Line - Your Return Journey Through History and Scenery!</title>
+      <link>http://localhost:1313/posts/s-kawachi-cycle-path-2/</link>
+      <pubDate>Fri, 01 Aug 2025 23:44:08 +0900</pubDate>
+      <guid>http://localhost:1313/posts/s-kawachi-cycle-path-2/</guid>
+      <description>On the return trip of the Minamikawachi Cycle Line, I transformed a simple ride back into a historical adventure, making delightful detours to explore the charming old townscape of Tondabayashi Jinaimachi and the majestic ancient tombs of the Furuichi Kofun Group, including Hōnda Gobyōyama Kofun.</description>
+    </item>
+  </channel>
+</rss>
