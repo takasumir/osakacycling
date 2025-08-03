@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Osaka Cycling"
 # theme = "ananke"
 
+[pagination]
+  pagerSize = 10
+
 [module]
   [[module.imports]]
     disable = false
@@ -11,8 +14,9 @@ title = "Osaka Cycling"
     path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 
 [params]
-Description = "Cycling, outdoor spots in/around Osaka."
-custom_css = ["css/custom.css"]
+  Description = "Cycling, outdoor spots in/around Osaka."
+  custom_css = ["css/custom.css"]
+  recent_posts_number = 10
 
 [markup]
   [markup.goldmark.parser]
