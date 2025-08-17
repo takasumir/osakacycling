@@ -5,7 +5,7 @@ categories:
 date: "2025-08-01T23:44:08+09:00"
 description: Discover an enchanting cycling course on Osaka's South Kawachi Cycle Line, transforming your return journey into a captivating exploration of historic townscapes like Tondabayashi Jinaimachi and ancient wonders like the Furuichi Kofun Group.
 draft: false
-featured_image: "images/0041.jpg"
+featured_image: "images/0041f.webp"
 summary: On the return trip of the South Kawachi Cycle Line, I transformed a simple ride back into a historical adventure, making delightful detours to explore the charming old townscape of Tondabayashi Jinaimachi and the majestic ancient tombs of the Furuichi Kofun Group, including Hōnda Gobyōyama Kofun.
 tags:
   - Cycling

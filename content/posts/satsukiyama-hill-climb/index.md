@@ -6,9 +6,9 @@ keywords: "Cycling, Osaka, Satsukiyama, Hill Climbing, Mt. Rokko, Rokko Mountain
 featured_image: '/posts/satsukiyama-hill-climb/DSCF0290.webp'
 ---
 
-<!-- ![Mt.Rokko](DSCF0290.webp) -->
-
 A famous hill climb cycling route in Osaka, Japan. Satsukiyama hill climb route starts from the entrance of Satsukiyama driveway. This route is 6.5km long and has an elevation gain of 448m. You can see the landscape of Mt. Rokkou and the cities under the mountain at the end of the route. 
+
+<!--more-->
 
 ## Route
 

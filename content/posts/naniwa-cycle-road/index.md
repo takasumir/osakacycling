@@ -7,7 +7,7 @@ summary: "Unveil Osaka's hidden cycling gem! The Naniwa Cycling Road offers a re
 description: "Unveil Osaka's hidden cycling gem! The Naniwa Cycling Road offers a relaxed, picturesque loop through riverside tranquility, urban vistas, and authentic local scenes."
 date: 2025-08-09T06:42:38+09:00
 draft: false
-featured_image: "images/FHD0023.JPG"
+featured_image: "images/FHD0023f.webp"
 tags:
   - cycling
   - pottering

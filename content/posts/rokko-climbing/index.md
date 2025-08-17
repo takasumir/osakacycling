@@ -8,6 +8,8 @@ featured_image: '/posts/rokko-climbing/images/IMG_20210606_125713.webp'
 
 June is a rany season in most parts of Japan. It was a happy sunny holiday when I decided to climb "Rock Garden" in Mt. Rokko with my family. Contrary to its name, Rock Garden, climbing the route is easy and fun. Recommended for kids and families.
 
+<!--more-->
+
 ## Climbing Route
 
 {{< uMap src="//umap.openstreetmap.fr/ja/map/mt-rokko-rock-garden_683879?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false" >}}

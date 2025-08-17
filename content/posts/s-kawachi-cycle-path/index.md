@@ -5,7 +5,7 @@ categories:
 date: "2025-08-01T17:57:06+09:00"
 description: "Discover Osaka's South Kawachi Cycle Line! Cycle 21.1km of scenic riverside paths and explore local culture. Enjoy well-maintained routes, iconic bridges, and convenient access. Perfect for an exhilarating ride in Osaka, Japan."
 draft: false
-featured_image: "images/0015-1.jpg"
+featured_image: "images/0015-1f.webp"
 tags:
   - cycling
   - pottering
@@ -20,6 +20,8 @@ title: Explore Osaka's Scenic South Kawachi Cycle Line! - Outward Journey
 ---
 
 Are you looking for an exhilarating cycling adventure in Japan? Discover the South Kawachi Cycle Line, a cycling path in Osaka Prefecture, offering a refreshing escape with picturesque riverside views!
+
+<!--more-->
 
 ## What is the South Kawachi Cycle Line?
 

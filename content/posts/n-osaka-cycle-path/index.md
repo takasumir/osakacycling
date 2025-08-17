@@ -16,7 +16,7 @@ tags:
   - North Osaka Cycle line
   - Cycle line
 keywords: "Cycling, Osaka, North Osaka Cycle Path, Yodo River, Expo'70 Park"
-featured_image: 'images/DSCF0485.JPG'
+featured_image: 'images/DSCF0485f.webp'
 js: "js/mbox.ts"
 ---
 
@@ -30,6 +30,8 @@ If you are thinking to enjoy cycling in Osaka, Japan, There would be several cho
 North Osaka Cycle Path begins at Osaka city hall. It reaches Expo'70 Commemoriative Park.
 
 Although people usually go from south to north, I took opposite direction.
+
+<!--more-->
 
 ## North Osaka Cycle Path - Map
 
